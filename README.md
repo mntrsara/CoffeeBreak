@@ -1,6 +1,6 @@
 ## COFFEE BREAK
 Menu digital para cafeteria.
-- [ Demostração ](https://mntrsara.github.io/StarCoffee/)
+- [ Demostração ](https://mntrsara.github.io/CoffeeBreak/)
 
 ## Como contribuir
 
